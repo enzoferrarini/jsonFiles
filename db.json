@@ -1,6 +1,8 @@
 {
   "electro": [   
-      {"id": 21, "title": "Máquina de Pan", "price": 129.99, "description": "Máquina de hacer pan con programas automáticos", "stock": 20}
+      {
+        "id": 21
+      }
     ]
 }
 
