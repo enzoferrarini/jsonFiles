@@ -1,6 +1,5 @@
 {
-  "electro": [
-   
+  "electro": [   
       {"id": 21, "title": "Máquina de Pan", "price": 129.99, "description": "Máquina de hacer pan con programas automáticos", "stock": 20},
       {"id": 22, "title": "Plancha de Pelo", "price": 49.99, "description": "Plancha de pelo con tecnología de cerámica", "stock": 30},
       {"id": 23, "title": "Batidora de Mano", "price": 29.99, "description": "Batidora de mano con múltiples accesorios", "stock": 25},
@@ -80,8 +79,7 @@
       {"id": 97, "title": "Afilador de Cuchillos Eléctrico", "price": 34.99, "description": "Afilador de cuchillos eléctrico con guías de ángulo", "stock": 22},
       {"id": 98, "title": "Calentador de Toallas", "price": 89.99, "description": "Calentador de toallas eléctrico para baños", "stock": 25},
       {"id": 99, "title": "Máquina para Hacer Yogur", "price": 49.99, "description": "Máquina para hacer yogur casero", "stock": 18},
-      {"id": 100, "title": "Hervidor de Agua", "price": 24.99, "description": "Hervidor eléctrico con capacidad para 1.7 litros", "stock": 48}
-     
+      {"id": 100, "title": "Hervidor de Agua", "price": 24.99, "description": "Hervidor eléctrico con capacidad para 1.7 litros", "stock": 48}     
   ]
 }
 
