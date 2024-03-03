@@ -76,11 +76,5 @@
     {"id": 68, "title": "Máquina para Hacer Galletas", "price": 44.99, "description": "Máquina para hacer galletas y pastas", "stock": 22},
     {"id": 69, "title": "Filtro de Agua para Grifo", "price": 19.99, "description": "Filtro de agua para grifo con cartucho reemplazable", "stock": 35},
     {"id": 70, "title": "Máquina de Ejercicios Paso a Paso", "price": 129.99, "description": "Máquina de ejercicios para tonificar piernas y glúteos", "stock": 20},
-    {"id": 71, "title": "Parrilla Eléctrica", "price": 79.99, "description": "Parrilla eléctrica para uso en interiores", "stock": 25},
-    {"id": 72, "title": "Cámara de Vigilancia IP", "price": 89.99, "description": "Cámara de vigilancia IP con visión nocturna", "stock": 18},
-    {"id": 73, "title": "Soplador de Hojas Eléctrico", "price": 49.99, "description": "Soplador de hojas eléctrico para jardín", "stock": 30},
-    {"id": 74, "title": "Humidificador Ultrasónico", "price": 34.99, "description": "Humidificador ultrasónico con luz LED", "stock": 22},
-    {"id": 75, "title": "Máquina para Hacer Sushi", "price": 29.99, "description": "Máquina para hacer sushi en casa", "stock": 35}
-    
-  ]
+    {"id": 71, "title": "Parrilla Eléctrica", "price": 79.99, "description": "Parrilla eléctrica para uso en interiores", "stock": 25}  ]
 }
