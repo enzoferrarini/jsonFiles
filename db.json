@@ -95,17 +95,7 @@
     {"id": 87, "title": "Hervidor de Huevos Eléctrico", "price": 19.99, "description": "Hervidor de huevos eléctrico para cocinar huevos duros o pochados", "stock": 35},
     {"id": 88, "title": "Lámpara UV Desinfectante", "price": 34.99, "description": "Lámpara UV para desinfectar objetos pequeños", "stock": 22},
     {"id": 89, "title": "Caja Fuerte Electrónica", "price": 59.99, "description": "Caja fuerte electrónica para documentos y objetos de valor", "stock": 28},
-    {"id": 90, "title": "Plancha Grill Eléctrica", "price": 49.99, "description": "Plancha grill eléctrica con superficie antiadherente", "stock": 20},
-    {"id": 91, "title": "Máquina de Burbujas", "price": 29.99, "description": "Máquina de hacer burbujas automática", "stock": 15},
-    {"id": 92, "title": "Abridor de Latas Eléctrico", "price": 24.99, "description": "Abridor de latas eléctrico con imán para tapas", "stock": 38},
-    {"id": 93, "title": "Tostadora de Bagels", "price": 39.99, "description": "Tostadora especial para bagels y panes gruesos", "stock": 20},
-    {"id": 94, "title": "Plancha de Vapor", "price": 44.99, "description": "Plancha de vapor con función de autolimpieza", "stock": 25},
-    {"id": 95, "title": "Silla de Masaje Eléctrica", "price": 249.99, "description": "Silla de masaje eléctrica con funciones de vibración y calor", "stock": 18},
-    {"id": 96, "title": "Calefactor de Cerámica", "price": 69.99, "description": "Calefactor de cerámica con termostato ajustable", "stock": 32},
-    {"id": 97, "title": "Afilador de Cuchillos Eléctrico", "price": 34.99, "description": "Afilador de cuchillos eléctrico con guías de ángulo", "stock": 22},
-    {"id": 98, "title": "Calentador de Toallas", "price": 89.99, "description": "Calentador de toallas eléctrico para baños", "stock": 25},
-    {"id": 99, "title": "Máquina para Hacer Yogur", "price": 49.99, "description": "Máquina para hacer yogur casero", "stock": 18},
-    {"id": 100, "title": "Hervidor de Agua", "price": 24.99, "description": "Hervidor eléctrico con capacidad para 1.7 litros", "stock": 48}   
+    {"id": 90, "title": "Plancha Grill Eléctrica", "price": 49.99, "description": "Plancha grill eléctrica con superficie antiadherente", "stock": 20}
     
   ]
 }
