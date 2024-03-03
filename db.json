@@ -44,28 +44,7 @@
       {"id": 62, "title": "Tetera Eléctrica", "price": 34.99, "description": "Tetera eléctrica con control de temperatura", "stock": 22},
       {"id": 63, "title": "Barbacoa Eléctrica", "price": 79.99, "description": "Barbacoa eléctrica para uso en interiores", "stock": 25},
       {"id": 64, "title": "Desinfectante UV para Teléfonos", "price": 29.99, "description": "Desinfectante UV para teléfonos y objetos pequeños", "stock": 18},
-      {"id": 65, "title": "Aire Acondicionado Portátil", "price": 349.99, "description": "Aire acondicionado portátil con control remoto", "stock": 15},
-      {"id": 66, "title": "Máquina para Hacer Jugos", "price": 69.99, "description": "Máquina para hacer jugos frescos", "stock": 40},
-      {"id": 67, "title": "Ventilador de Techo", "price": 119.99, "description": "Ventilador de techo con luz y control remoto", "stock": 28},
-      {"id": 68, "title": "Máquina para Hacer Galletas", "price": 44.99, "description": "Máquina para hacer galletas y pastas", "stock": 22},
-      {"id": 69, "title": "Filtro de Agua para Grifo", "price": 19.99, "description": "Filtro de agua para grifo con cartucho reemplazable", "stock": 35},
-      {"id": 70, "title": "Máquina de Ejercicios Paso a Paso", "price": 129.99, "description": "Máquina de ejercicios para tonificar piernas y glúteos", "stock": 20},
-      {"id": 71, "title": "Parrilla Eléctrica", "price": 79.99, "description": "Parrilla eléctrica para uso en interiores", "stock": 25},
-      {"id": 72, "title": "Cámara de Vigilancia IP", "price": 89.99, "description": "Cámara de vigilancia IP con visión nocturna", "stock": 18},
-      {"id": 73, "title": "Soplador de Hojas Eléctrico", "price": 49.99, "description": "Soplador de hojas eléctrico para jardín", "stock": 30},
-      {"id": 74, "title": "Humidificador Ultrasónico", "price": 34.99, "description": "Humidificador ultrasónico con luz LED", "stock": 22},
-      {"id": 75, "title": "Máquina para Hacer Sushi", "price": 29.99, "description": "Máquina para hacer sushi en casa", "stock": 35},
-      {"id": 76, "title": "Cuchillo Eléctrico", "price": 39.99, "description": "Cuchillo eléctrico para cortar carnes y pan", "stock": 28},
-      {"id": 77, "title": "Tostadora de Pan Plano", "price": 59.99, "description": "Tostadora de pan plano con funciones ajustables", "stock": 20},
-      {"id": 78, "title": "Lavavajillas Compacto", "price": 449.99, "description": "Lavavajillas compacto para espacios reducidos", "stock": 15},
-      {"id": 79, "title": "Molinillo de Café Eléctrico", "price": 29.99, "description": "Molinillo de café eléctrico con ajuste de molido", "stock": 25},
-      {"id": 80, "title": "Frigobar", "price": 149.99, "description": "Frigobar con congelador y estantes ajustables", "stock": 18},
-      {"id": 81, "title": "Plancha para el Pelo", "price": 44.99, "description": "Plancha para el pelo con tecnología de cerámica", "stock": 32},
-      {"id": 82, "title": "Sartén Eléctrica", "price": 39.99, "description": "Sartén eléctrica para cocinar sin aceite", "stock": 22},
-      {"id": 83, "title": "Dispensador de Papel Higiénico", "price": 24.99, "description": "Dispensador de papel higiénico automático", "stock": 25},
-      {"id": 84, "title": "Máquina de Algodón de Azúcar", "price": 29.99, "description": "Máquina para hacer algodón de azúcar en casa", "stock": 18},
-      {"id": 85, "title": "Máquina de Coser Portátil", "price": 69.99, "description": "Máquina de coser portátil con pedal", "stock": 30},
-      {"id": 100, "title": "Hervidor de Agua", "price": 24.99, "description": "Hervidor eléctrico con capacidad para 1.7 litros", "stock": 48}     
+
   ]
 }
 
