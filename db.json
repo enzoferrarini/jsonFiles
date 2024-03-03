@@ -4,26 +4,6 @@
       {"id": 22, "title": "Plancha de Pelo", "price": 49.99, "description": "Plancha de pelo con tecnología de cerámica", "stock": 30},
       {"id": 23, "title": "Batidora de Mano", "price": 29.99, "description": "Batidora de mano con múltiples accesorios", "stock": 25},
       {"id": 24, "title": "Cafetera de Goteo", "price": 39.99, "description": "Cafetera de goteo programable para café filtrado", "stock": 40},
-      {"id": 25, "title": "Ventilador de Torre", "price": 59.99, "description": "Ventilador de torre con control remoto", "stock": 15},
-      {"id": 26, "title": "Tostadora", "price": 24.99, "description": "Tostadora con ranuras anchas para pan", "stock": 35},
-      {"id": 27, "title": "Plancha para Waffles", "price": 34.99, "description": "Plancha para waffles con placas antiadherentes", "stock": 22},
-      {"id": 28, "title": "Báscula de Cocina", "price": 19.99, "description": "Báscula digital para pesar ingredientes", "stock": 50},
-      {"id": 29, "title": "Exprimidor de Jugos", "price": 44.99, "description": "Exprimidor de jugos eléctrico con sistema antigoteo", "stock": 18},
-      {"id": 30, "title": "Máquina de Helados", "price": 89.99, "description": "Máquina para hacer helados caseros", "stock": 28},
-      {"id": 31, "title": "Robot Aspirador", "price": 249.99, "description": "Robot aspirador inteligente con mapeo láser", "stock": 15},
-      {"id": 32, "title": "Cepillo de Dientes Eléctrico", "price": 39.99, "description": "Cepillo de dientes eléctrico recargable", "stock": 25},
-      {"id": 33, "title": "Cocina de Inducción", "price": 399.99, "description": "Cocina de inducción con controles táctiles", "stock": 12},
-      {"id": 34, "title": "Lustradora de Calzado", "price": 29.99, "description": "Lustradora eléctrica para calzado", "stock": 18},
-      {"id": 35, "title": "Máquina de Coser", "price": 149.99, "description": "Máquina de coser con múltiples puntadas", "stock": 30},
-      {"id": 36, "title": "Asador Eléctrico", "price": 79.99, "description": "Asador eléctrico con regulador de temperatura", "stock": 20},
-      {"id": 37, "title": "Despertador Digital", "price": 14.99, "description": "Despertador digital con pantalla LED", "stock": 40},
-      {"id": 38, "title": "Mini Refrigerador", "price": 89.99, "description": "Mini refrigerador portátil para bebidas", "stock": 35},
-      {"id": 39, "title": "Calefactor de Infrarrojos", "price": 69.99, "description": "Calefactor de infrarrojos para espacios pequeños", "stock": 15},
-      {"id": 40, "title": "Licuadora de Inmersión", "price": 29.99, "description": "Licuadora de inmersión con cuchillas de acero", "stock": 28},
-      {"id": 41, "title": "Purificador de Aire", "price": 129.99, "description": "Purificador de aire con filtro HEPA", "stock": 22},
-      {"id": 42, "title": "Cámara Deportiva", "price": 79.99, "description": "Cámara deportiva resistente al agua", "stock": 25}
-
-
-  ]
+    ]
 }
 
