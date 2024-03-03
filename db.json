@@ -72,9 +72,5 @@
     {"id": 64, "title": "Desinfectante UV para Teléfonos", "price": 29.99, "description": "Desinfectante UV para teléfonos y objetos pequeños", "stock": 18},
     {"id": 65, "title": "Aire Acondicionado Portátil", "price": 349.99, "description": "Aire acondicionado portátil con control remoto", "stock": 15},
     {"id": 66, "title": "Máquina para Hacer Jugos", "price": 69.99, "description": "Máquina para hacer jugos frescos", "stock": 40},
-    {"id": 67, "title": "Ventilador de Techo", "price": 119.99, "description": "Ventilador de techo con luz y control remoto", "stock": 28},
-    {"id": 68, "title": "Máquina para Hacer Galletas", "price": 44.99, "description": "Máquina para hacer galletas y pastas", "stock": 22},
-    {"id": 69, "title": "Filtro de Agua para Grifo", "price": 19.99, "description": "Filtro de agua para grifo con cartucho reemplazable", "stock": 35},
-    {"id": 70, "title": "Máquina de Ejercicios Paso a Paso", "price": 129.99, "description": "Máquina de ejercicios para tonificar piernas y glúteos", "stock": 20},
-    {"id": 71, "title": "Parrilla Eléctrica", "price": 79.99, "description": "Parrilla eléctrica para uso en interiores", "stock": 25}  ]
+    {"id": 67, "title": "Ventilador de Techo", "price": 119.99, "description": "Ventilador de techo con luz y control remoto", "stock": 28}
 }
