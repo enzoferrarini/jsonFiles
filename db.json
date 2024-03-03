@@ -64,13 +64,5 @@
     {"id": 56, "title": "Mini Horno", "price": 89.99, "description": "Mini horno eléctrico con capacidad para pizzas pequeñas", "stock": 25},
     {"id": 57, "title": "Máquina de Vapor para Ropa", "price": 49.99, "description": "Máquina de vapor para ropa portátil", "stock": 30},
     {"id": 58, "title": "Aparato de Abdominales", "price": 59.99, "description": "Aparato de ejercicios para abdominales", "stock": 20},
-    {"id": 59, "title": "Máquina para Hacer Pasta", "price": 79.99, "description": "Máquina manual para hacer pasta fresca", "stock": 15},
-    {"id": 60, "title": "Lámpara UV para Uñas", "price": 24.99, "description": "Lámpara UV para el secado de uñas de gel", "stock": 28},
-    {"id": 61, "title": "Cepillo de Limpieza Facial", "price": 19.99, "description": "Cepillo eléctrico para limpieza facial", "stock": 32},
-    {"id": 62, "title": "Tetera Eléctrica", "price": 34.99, "description": "Tetera eléctrica con control de temperatura", "stock": 22},
-    {"id": 63, "title": "Barbacoa Eléctrica", "price": 79.99, "description": "Barbacoa eléctrica para uso en interiores", "stock": 25},
-    {"id": 64, "title": "Desinfectante UV para Teléfonos", "price": 29.99, "description": "Desinfectante UV para teléfonos y objetos pequeños", "stock": 18},
-    {"id": 65, "title": "Aire Acondicionado Portátil", "price": 349.99, "description": "Aire acondicionado portátil con control remoto", "stock": 15},
-    {"id": 66, "title": "Máquina para Hacer Jugos", "price": 69.99, "description": "Máquina para hacer jugos frescos", "stock": 40},
-    {"id": 67, "title": "Ventilador de Techo", "price": 119.99, "description": "Ventilador de techo con luz y control remoto", "stock": 28}
+    {"id": 59, "title": "Máquina para Hacer Pasta", "price": 79.99, "description": "Máquina manual para hacer pasta fresca", "stock": 15}
 }
