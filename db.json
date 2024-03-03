@@ -1,11 +1,10 @@
 {
   "electro": [
-    {
-      "id": 1,
-      "titulo": "Career Girls",
-      "director": "Mike Leigh",
-      "genero": "Drama",
-      "anio": 1997
-    }
+    {"id": 1, "title": "Lavadora", "price": 499.99, "description": "Lavadora de carga frontal con capacidad de 8 kg", "stock": 50},
+    {"id": 2, "title": "Refrigerador", "price": 799.99, "description": "Refrigerador de dos puertas con dispensador de agua", "stock": 30},
+    {"id": 3, "title": "Aspiradora", "price": 129.99, "description": "Aspiradora sin bolsa con tecnología de succión potente", "stock": 40},
+    {"id": 4, "title": "Licuadora", "price": 39.99, "description": "Licuadora con múltiples velocidades y cuchillas afiladas", "stock": 60},
+    {"id": 5, "title": "Televisor", "price": 699.99, "description": "Televisor inteligente de 55 pulgadas con resolución 4K", "stock": 25},
+    {"id": 6, "title": "Secadora", "price": 549.99, "description": "Secadora de ropa con sensor de humedad", "stock": 35}
   ]
 }
