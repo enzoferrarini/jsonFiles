@@ -80,22 +80,7 @@
     {"id": 72, "title": "Cámara de Vigilancia IP", "price": 89.99, "description": "Cámara de vigilancia IP con visión nocturna", "stock": 18},
     {"id": 73, "title": "Soplador de Hojas Eléctrico", "price": 49.99, "description": "Soplador de hojas eléctrico para jardín", "stock": 30},
     {"id": 74, "title": "Humidificador Ultrasónico", "price": 34.99, "description": "Humidificador ultrasónico con luz LED", "stock": 22},
-    {"id": 75, "title": "Máquina para Hacer Sushi", "price": 29.99, "description": "Máquina para hacer sushi en casa", "stock": 35},
-    {"id": 76, "title": "Cuchillo Eléctrico", "price": 39.99, "description": "Cuchillo eléctrico para cortar carnes y pan", "stock": 28},
-    {"id": 77, "title": "Tostadora de Pan Plano", "price": 59.99, "description": "Tostadora de pan plano con funciones ajustables", "stock": 20},
-    {"id": 78, "title": "Lavavajillas Compacto", "price": 449.99, "description": "Lavavajillas compacto para espacios reducidos", "stock": 15},
-    {"id": 79, "title": "Molinillo de Café Eléctrico", "price": 29.99, "description": "Molinillo de café eléctrico con ajuste de molido", "stock": 25},
-    {"id": 80, "title": "Frigobar", "price": 149.99, "description": "Frigobar con congelador y estantes ajustables", "stock": 18},
-    {"id": 81, "title": "Plancha para el Pelo", "price": 44.99, "description": "Plancha para el pelo con tecnología de cerámica", "stock": 32},
-    {"id": 82, "title": "Sartén Eléctrica", "price": 39.99, "description": "Sartén eléctrica para cocinar sin aceite", "stock": 22},
-    {"id": 83, "title": "Dispensador de Papel Higiénico", "price": 24.99, "description": "Dispensador de papel higiénico automático", "stock": 25},
-    {"id": 84, "title": "Máquina de Algodón de Azúcar", "price": 29.99, "description": "Máquina para hacer algodón de azúcar en casa", "stock": 18},
-    {"id": 85, "title": "Máquina de Coser Portátil", "price": 69.99, "description": "Máquina de coser portátil con pedal", "stock": 30},
-    {"id": 86, "title": "Frigorífico de Bebidas", "price": 119.99, "description": "Frigorífico de bebidas con puerta de vidrio", "stock": 20},
-    {"id": 87, "title": "Hervidor de Huevos Eléctrico", "price": 19.99, "description": "Hervidor de huevos eléctrico para cocinar huevos duros o pochados", "stock": 35},
-    {"id": 88, "title": "Lámpara UV Desinfectante", "price": 34.99, "description": "Lámpara UV para desinfectar objetos pequeños", "stock": 22},
-    {"id": 89, "title": "Caja Fuerte Electrónica", "price": 59.99, "description": "Caja fuerte electrónica para documentos y objetos de valor", "stock": 28},
-    {"id": 90, "title": "Plancha Grill Eléctrica", "price": 49.99, "description": "Plancha grill eléctrica con superficie antiadherente", "stock": 20}
+    {"id": 75, "title": "Máquina para Hacer Sushi", "price": 29.99, "description": "Máquina para hacer sushi en casa", "stock": 35}
     
   ]
 }
