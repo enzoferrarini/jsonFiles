@@ -3,7 +3,7 @@
       {"id": 21, "title": "Máquina de Pan", "price": 129.99, "description": "Máquina de hacer pan con programas automáticos", "stock": 20},
       {"id": 22, "title": "Plancha de Pelo", "price": 49.99, "description": "Plancha de pelo con tecnología de cerámica", "stock": 30},
       {"id": 23, "title": "Batidora de Mano", "price": 29.99, "description": "Batidora de mano con múltiples accesorios", "stock": 25},
-      {"id": 24, "title": "Cafetera de Goteo", "price": 39.99, "description": "Cafetera de goteo programable para café filtrado", "stock": 40},
+      {"id": 24, "title": "Cafetera de Goteo", "price": 39.99, "description": "Cafetera de goteo programable para café filtrado", "stock": 40}
     ]
 }
 
