@@ -1,12 +1,9 @@
 {
-  "posts": [
+  "electro": [
    
       {"id": 21, "title": "Máquina de Pan", "price": 129.99, "description": "Máquina de hacer pan con programas automáticos", "stock": 20},
-      {"id": 22, "title": "Plancha de Pelo", "price": 49.99, "description": "Plancha de pelo con tecnología de cerámica", "stock": 30},
+      {"id": 22, "title": "Plancha de Pelo", "price": 49.99, "description": "Plancha de pelo con tecnología de cerámica", "stock": 30}
      
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
 
